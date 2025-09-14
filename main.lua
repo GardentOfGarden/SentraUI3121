@@ -10020,7 +10020,7 @@ LPH_JIT_MAX(function() --// UI Setup
 	Window:SetTab(Pages.Combat)
 	task.wait(2)
 
-	Watermark:SetText("Iridescent x Amongus.Hook - Fallen Survival"); -- Feel free to change it!
+	Watermark:SetText("Eclipse.wtf | BEST"); -- Feel free to change it!
 
 	local ArmorPanel = Window.ArmorPanel;
 	Globals.ArmorPanel = ArmorPanel;
